@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RDistinct
 - 👀 I’m interested in Web Technology
-- 🌱 I’m currently learning React JS
+- 🌱 I’m currently learning Vue & React JS 
 - 💞️ I’m looking to collaborate on front-end web projects.
 - 📫 How to reach me ...
 

@@ -37,5 +37,5 @@ You can click the Preview link to take a look at your changes.
 
 #### MINI-PROJECTS
 
-           
+[A TODO-LIST app but for groceries](https://github.com/RDistinct/JAVASCRIPT-MINI-PROJECTS/tree/master/14.%20Grocery%20List%20App)
           

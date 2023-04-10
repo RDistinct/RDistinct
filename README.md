@@ -24,12 +24,12 @@ You can click the Preview link to take a look at your changes.
   
 <img align="left" alt="html" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-<img align="left" alt="html" width="30px" style="padding-right:10px" src="https://icons8.com/icon/fluency/48/null/github.png" />
+<img align="left" alt="html" width="30px" style="padding-right:10px" src="https://www.flaticon.com/free-icon/github_733609?term=github+logo&page=1&position=1&origin=tag&related_id=733609" />
 
 <img align="left" alt="html" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
                     
           
-          
+         
           
 <br>
 

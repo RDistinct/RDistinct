@@ -24,11 +24,11 @@ You can click the Preview link to take a look at your changes.
   
 <img align="left" alt="html" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
-<img align="left" alt="html" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+<img align="left" alt="html" width="30px" style="padding-right:10px" src="https://icons8.com/icon/AZOZNnY73haj/github" />
 
 <img align="left" alt="html" width="30px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
                     
-           
+          
           
           
 <br>

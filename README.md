@@ -43,4 +43,6 @@ You can click the Preview link to take a look at your changes.
 [Shopping Cart using JavaScript](https://github.com/RDistinct/JavaScript-Fetch-API)
 
 [A TODO-LIST app but for groceries](https://github.com/RDistinct/JAVASCRIPT-MINI-PROJECTS/tree/master/14.%20Grocery%20List%20App)
+
+[A Notes App using VueJS](https://vue-notes-app-self.vercel.app/)
           

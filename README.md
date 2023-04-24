@@ -30,8 +30,8 @@ You can click the Preview link to take a look at your changes.
           
 <a href="https://firebase.google.com" target="_blank"><img align="left" alt="html" width="50px" style="padding-right:10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" /></a>
           
-         
-          
+<br>
+<br>         
 <br>
 
 #

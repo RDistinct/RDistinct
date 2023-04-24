@@ -45,3 +45,8 @@ You can click the Preview link to take a look at your changes.
 [A Notes App using VueJS](https://vue-notes-app-self.vercel.app/)
           
 [A TODO-LIST app but for groceries](https://github.com/RDistinct/JAVASCRIPT-MINI-PROJECTS/tree/master/14.%20Grocery%20List%20App)
+
+<br>
+            
+  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RDistinct&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+

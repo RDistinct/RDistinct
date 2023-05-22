@@ -49,5 +49,5 @@ You can click the Preview link to take a look at your changes.
 
 <br>
             
-  ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RDistinct&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+  ![Most Used Languages](https://https://github-readme-stats-tau-gray.vercel.app/?username=RDistinct&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 

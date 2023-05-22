@@ -48,6 +48,6 @@ You can click the Preview link to take a look at your changes.
 [A TODO-LIST app but for groceries](https://github.com/RDistinct/JAVASCRIPT-MINI-PROJECTS/tree/master/14.%20Grocery%20List%20App)
 
 <br>
-            
-  ![Most Used Languages](https://github-readme-stats-tau-gray.vercel.app/?username=RDistinct&layout=compact&show_icons=true&theme=algolia&border_radius=20)
+                        "https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+  ![Most Used Languages](https://github-readme-stats-tau-gray.vercel.app/api?username=RDistinct&layout=compact&show_icons=true&theme=algolia&border_radius=20)
 

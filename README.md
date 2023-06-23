@@ -45,7 +45,7 @@ You can click the Preview link to take a look at your changes.
 
 [A Notes App using VueJS](https://vue-notes-app-self.vercel.app/)
           
-[A Grocery List App ](https://github.com/RDistinct/JAVASCRIPT-MINI-PROJECTS/tree/master/14.%20Grocery%20List%20App)
+[A Grocery List App using JavaScript ](https://github.com/RDistinct/JAVASCRIPT-MINI-PROJECTS/tree/master/14.%20Grocery%20List%20App)
 
 <br>
                         

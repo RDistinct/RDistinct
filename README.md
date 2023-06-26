@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Technology
 - 🌱 I’m currently learning Vue & React JS 
 - 💞️ I’m looking to collaborate on front-end web projects.
-- 📫 How to reach me ...
+- 📫 How to reach me ... @RDistinct
 
 #
 <!---

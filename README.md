@@ -5,7 +5,8 @@
 - 📫 How to reach me ... [send a DM at Twitter](https://twitter.com/RDistinct)
 
 #
-Visitor Count - ![Visitor Count](https://profile-counter.glitch.me/{RDistinct}/count.svg)
+Visitor Count: 
+![Visitor Count](https://profile-counter.glitch.me/{RDistinct}/count.svg)
 #
 <!---
 RDistinct/RDistinct is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

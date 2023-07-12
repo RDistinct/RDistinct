@@ -7,7 +7,6 @@
 #
 
 ![Visitor Count](https://profile-counter.glitch.me/{RDistinct}/count.svg)
-
 #
 <!---
 RDistinct/RDistinct is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

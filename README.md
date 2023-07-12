@@ -5,8 +5,8 @@
 - 📫 How to reach me ... [send a DM at Twitter](https://twitter.com/RDistinct)
 
 #
-Visitor Count: 
-***
+<p>Visitor Count:</p> 
+
 ![Visitor Count](https://profile-counter.glitch.me/{RDistinct}/count.svg)
 #
 <!---

@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @RDistinct
 - 👀 I’m interested in Web Technology
-- 🌱 I’m currently learning Vue & React JS 
+- 🌱 I’m currently learning Nuxt & backend development 
 - 💞️ I’m looking to collaborate on front-end web projects.
 - 📫 How to reach me ... send a DM
+
+[![RDistinct Nuxter profile](https://nuxters.nuxt.com/card/RDistinct/og.png)](https://nuxters.nuxt.com/RDistinct)
 
 #
 <p>Visitor Count:</p> 
